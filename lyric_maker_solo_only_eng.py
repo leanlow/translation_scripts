@@ -32,5 +32,5 @@ for line in textfile1:
 	font.name = 'Throw My Hands Up in the Air Regular'
 	font.size = Pt(35)
 
-prs.save('/Users/LeAnnLo/Downloads/finished_slides.pptx')
+prs.save('/Users/loser/Downloads/finished_slides.pptx')
 
