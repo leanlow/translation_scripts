@@ -54,8 +54,8 @@ for line in textfile1:
 	run3.text = textfile3[count1]
 	count1 +=1
 	font3 = run3.font
-	font3.name = 'Throw My Hands Up in the Air'
+	font3.name = 'Throw My Hands Up in the Air'  #if you don't have this font then replace with one you have
 	font3.size = Pt(25)
 
-prs.save('/Users/LeAnnLo/Downloads/done_slides.pptx')
+prs.save('/Downloads/done_slides.pptx') #use the correct output file, could be modified to include output directory
 
