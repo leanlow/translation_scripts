@@ -48,7 +48,7 @@ Example: prs.save('/Users/loser/Downloads/done_slides.pptx')
 Feel free to add an output folder function if you so desire, I would do it but I'm too
 lazy to have to add another argument...
 
-##Types of lyric makers
+## Types of lyric makers
 
 There are a large variety that have a certain number of files or argument necessary.
  
