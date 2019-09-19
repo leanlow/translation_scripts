@@ -77,5 +77,5 @@ for line in textfile1:
 	font4.size = Pt(26)
 	font4.color.rgb = RGBColor(255, 255, 255)
 
-prs.save('/Users/LeAnnLo/Downloads/done_slides_new.pptx')
+prs.save('/Users/loser/Downloads/done_slides_new.pptx')
 
