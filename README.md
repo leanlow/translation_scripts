@@ -1,5 +1,10 @@
 # Lyric Makers by creating PowerPoint Slides
 
+What you need: python 3.X, python-pptx package (installation instructions:
+with pip
+https://python-pptx.readthedocs.io/en/latest/user/install.html), text files
+with the lyrics already in them. 
+
 The purpose of these scripts is to reduce the amount of time spent copy pasting 
 lyrics into slides that can later be used as translation guides or for lyrics 
 videos (what I used it for). Where the lyrics will be printed for the slide is
