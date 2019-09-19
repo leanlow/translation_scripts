@@ -44,5 +44,5 @@ for line in textfile1:
 	font2.name = '210 Hayanbunpil Light'
 	font2.size = Pt(25)
 
-prs.save('/Users/LeAnnLo/Downloads/done_slides.pptx')
+prs.save('/Users/loser/Downloads/done_slides.pptx')
 
