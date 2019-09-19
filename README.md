@@ -15,10 +15,15 @@ art or whatever.
 Here is an example of what would be created
 ![Image of lyric example](https://i.ytimg.com/vi/o0ftlJfcVxU/maxresdefault.jpg)
 
-If you're powerpoint savvy, you can use the master slide to add the image you want
+If you're powerpoint savvy, you can use the master slide to add the image you want,
 I used befunky to create these collages of the members. Then to do color coding or
-blocking, just go on each slide and add a translucent block on top of the not singing
-people. 
+blocking, just go on each slide and add a translucent block on top of the non-active
+members.
+
+What is exported: a pptx file with all of the lyrics on each slide, the first slide
+is intentionally left blank to create a title or opening slide. The size is 
+1600 x 900 pixels which is good for a 16:9 resolution video. (I think that's 720p,
+who needs 1080p for a lyrics video?). 
 
 
 ## USAGE
