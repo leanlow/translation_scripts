@@ -10,6 +10,11 @@ art or whatever.
 Here is an example of what would be created
 ![Image of lyric example](https://i.ytimg.com/vi/o0ftlJfcVxU/maxresdefault.jpg)
 
+If you're powerpoint savvy, you can use the master slide to add the image you want
+I used befunky to create these collages of the members. Then to do color coding or
+blocking, just go on each slide and add a translucent block on top of the not singing
+people. 
+
 
 ## USAGE
 
@@ -39,16 +44,23 @@ There are a large variety that have a certain number of files or argument necess
  
 lyric_maker: has three inputs for (hangul/korean, romanization, and translation)
 these are centered in the bottom third. 
+
 lyric_maker_aesthetic: has three inputs, centered in the middle. 
+
 lyric_maker_english: has two inputs (english lyric on top, translation on the bottom),
 centered for lower third
+
 lyric_maker_japan: has four inputs (japanese lyric, romanization, eng trans, kor trans):
 centered for lower third
+
 lyric_maker_sadballad: had three inputs (kor, rom, trans) but it is centered where the
 last file (in this case the english trans) is on top for peak aesthetic. the words are
 WHITE but you can change that in the script (lines with RGB color, look up the color you
 want and replace the three values) 
+
 lyric_maker_solo: three inputs but right aligned, this was used to add the image of
 the singer or whatever on the left side of the slide. 
+
 lyric_maker_solo_english: two inputs, right aligned format
+
 lyric_maker_solo_only_eng: just one input, right aligned format
