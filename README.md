@@ -13,7 +13,7 @@ third so that you can add an image on the top to indicate who is singing or some
 art or whatever.
 
 Here is an example of what would be created
-![Image of lyric example](https://i.ytimg.com/vi/o0ftlJfcVxU/maxresdefault.jpg)
+https://i.ytimg.com/vi/o0ftlJfcVxU/maxresdefault.jpg
 
 If you're powerpoint savvy, you can use the master slide to add the image you want,
 I used befunky to create these collages of the members. Then to do color coding or
